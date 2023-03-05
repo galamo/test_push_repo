@@ -3,3 +3,7 @@ function init(){
 }
 
 init()
+init()
+init()
+init()
+init()
